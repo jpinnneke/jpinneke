@@ -1,4 +1,3 @@
-# jpinneke
-My personal repository
+# Hello ✌
 
-Hello! ✌
+Welcome to my GitHub!
